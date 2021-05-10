@@ -14,7 +14,7 @@ request.onload = function () {
       cardofallproduct.setAttribute('class', '#');
       const img = document.createElement('img');
       img.setAttribute('class','card-img-top');
-      img.setAttribute('src','http://placehold.it/700x400');
+      img.setAttribute('src','img/350x350.png');
       img.setAttribute('alt',"");
       const card_body = document.createElement('div');
       card_body.setAttribute('class','card-body');
